@@ -27,4 +27,5 @@ If you have made it to this last step *congragulations you have fully connected!
 *cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 *cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 an Example would be using *ls -lat* which outputs as followed:
+
 ![ls -lat output](https://github.com/awnjike/cse15l-lab-reports/blob/main/lslat.png)
