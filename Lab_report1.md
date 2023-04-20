@@ -8,7 +8,7 @@ First we will download our code editor. We will be using vs code which one can
 download [here](https://code.visualstudio.com/download). When it is downloaded
 it, open the application and you should see a screen similar to this: 
 
-![Image](VS pic.png)
+![Image](vspic.png)
 
 ## Step 2: Remotely Connecting
 Now that we have our text editor open we can start connecting to our computer to the our 
