@@ -25,13 +25,13 @@ After this it will ask *Are you sure you want to continue connecting*, in order 
 
 ## Step 3: Trying Some Commands
 If you have made it to this last step *congragulations you have fully connected!* However, you now that you are connected you should test out some commands. Below we have a few comands  you could run:
-```
-*cd ~
-*cd
-*ls -lat
-*cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-*cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-```
+
+* cd ~ :
+* cd :
+* ls -lat :
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ :
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt :
+
 an Example would be using *ls -lat* which outputs as followed:
 
 ![Image](lslat.png)
