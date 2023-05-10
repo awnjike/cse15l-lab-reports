@@ -12,6 +12,7 @@
 #Part 2:
 
 The test:
+This test checks to see if a length 4 list will properly reverse itself after going through reverseInPlace and store the new version of the list in the old variable.
 ```
 @Test
 public void testReverseInPlace2(){
@@ -31,6 +32,8 @@ static void reverseInPlace(int[] arr) {
   }
  ```
 ![Image](PA2FailureTest.png)
+
+As you can see the original test failed because the first value of the the array was wrong. In order to fix this I  shortend the length of the loop by half and add a holder in temp that holds the current indexs original valure so that not only is the first half replaced by the back but the back also gets the front number.
 
 After
 ```
