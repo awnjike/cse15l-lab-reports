@@ -41,3 +41,6 @@ After
     }
   }
 ```
+
+#Part 3:
+In week two I learned how to start a server and get it to display text. Before the lab I did not know how to start a server or  how to or how to create code that changed the information in the server.
