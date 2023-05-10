@@ -1,5 +1,10 @@
 
+Part 1:
+![Image](PA2CodeForServer.png)
 
+![Image](PA2HelloAdd.png)
+
+![Image](PA2HelloHowAreYou.png)
 
 
 
