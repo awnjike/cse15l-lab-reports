@@ -6,6 +6,7 @@
 ![Image](PA2HelloAdd.png)
 
 ![Image](PA2HelloHowAreYou.png)
+For each of these pictures we use the handleRequest method that takes in the uri and then checks if "/add-message" is in the path. It then takes the  message at the end of the uri plus "/n" which indicates a new line and adds it to a variable called text which is a local variable in the Handler class so as to allow it to be hold added data after repeated uses of handleRequest and then return the text. 
 
 
 
