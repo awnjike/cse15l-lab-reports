@@ -16,13 +16,18 @@ the input for my test can be seen in this picture below:
 ---
 TA:
 Looking at your issue  it seems that the problem stems from a misplacement of your holder method. Because you are not creating a new instance you are instead creating refference to the changing holder. It should instead look more like this
-'''
+```
         public static List<String> Splitter(String s){
             List<String> holder = new ArrayList<String>();
             for(int i =0;i<s.length();i++) {
                 holder.add(s.substring(i, i+1));}
             return holder;
         }
- '''   
+```  
   ---
   Result:
+  ![Image](Screenshotgetter.png)
+  everything passed thank you!
+  ---
+  **Reflection**
+  I learned from this class how to use bask for the first time. Before coming to this class I had no idea that bash existed and now I have a much better understanding of the language.
